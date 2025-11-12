@@ -4,8 +4,6 @@
 This project demonstrates an end-to-end data analysis workflow, starting from loading and exploring raw data in Python, cleaning and preparing it for analysis, executing SQL queries for deeper insights, and finally building an interactive Power BI dashboard for visualization and reporting.
 
 The goal is to showcase how raw data can be transformed into actionable insights through a combination of Python, SQL, and Power BI.
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/12e6666a-6662-45eb-bf5f-fbe67895c42c" />
-
 
 🗂️ Project Structure
 📁 data-analysis-project/
