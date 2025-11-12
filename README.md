@@ -1,4 +1,6 @@
 🧠 Data Analysis Project
+
+
 📋 Project Overview
 
 This project demonstrates an end-to-end data analysis workflow, starting from loading and exploring raw data in Python, cleaning and preparing it for analysis, executing SQL queries for deeper insights, and finally building an interactive Power BI dashboard for visualization and reporting.
