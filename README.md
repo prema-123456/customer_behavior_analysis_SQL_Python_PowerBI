@@ -80,7 +80,7 @@ Region X contributed the highest profit margins across the dataset.
 
 ⚙️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/data-analysis-project.git
+git clone https://github.com/prema-123456/customer_behavior_analysis_SQL_Python_PowerBI.git
 cd data-analysis-project
 
 2. Create a Virtual Environment
