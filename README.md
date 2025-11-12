@@ -68,16 +68,6 @@ Designed a dynamic dashboard showing key KPIs and visual trends.
 
 Implemented slicers and filters for user interactivity.
 
-📊 Key Insights
-
-(Example — Replace with your actual findings)
-
-Sales increased by 25% YoY, mainly driven by Category A.
-
-Customer churn rate decreased after targeted promotions.
-
-Region X contributed the highest profit margins across the dataset.
-
 ⚙️ Installation & Setup
 1. Clone the Repository
 git clone https://github.com/prema-123456/customer_behavior_analysis_SQL_Python_PowerBI.git
