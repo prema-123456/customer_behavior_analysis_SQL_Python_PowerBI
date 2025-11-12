@@ -19,12 +19,13 @@ The goal is to showcase how raw data can be transformed into actionable insights
 └── README.md                 # Project documentation
 
 🧰 Tools & Technologies
-Tool / Library	Purpose
-Python (Pandas, NumPy, Matplotlib, Seaborn)	Data loading, cleaning, and exploratory data analysis (EDA)
-SQL (PostgreSQL / MySQL)	Querying, aggregations, and joining datasets
-Power BI	Building interactive dashboards and visualizations
-Jupyter Notebook / VS Code	Development and documentation
-Git & GitHub	Version control and collaboration
+Tool                                             Library	Purpose
+Python (Pandas, NumPy, Matplotlib, Seaborn)	     Data loading, cleaning, and exploratory data analysis (EDA)
+SQL (PostgreSQL / MySQL)	                       Querying, aggregations, and joining datasets
+Power BI	                                       Building interactive dashboards and visualizations
+Jupyter Notebook / VS Code                       Development and documentation
+Git & GitHub                                     Version control and collaboration
+
 🔍 Steps Involved
 1. Loading the Dataset
 
